@@ -1,4 +1,4 @@
-TOKEN ='MTA2Mzg2NTM2NDk2ODEyMDM3MA.GirW3x.WnaeuEEs3K_e5FiWOnoigW-CHFWESTm5R0bF6A'
+TOKEN ='MTE0NTI2OTQ4MTQxODAxNDc5MQ.GcgydW.gwoAiFq_219Wl-PvEQBYbXPJZq-eLNhq7wkAfU'
 
 import discord
 import numpy as np
